@@ -1,0 +1,21 @@
+
+ESTATE = 'Estate'
+DUCHY = 'Duchy'
+PROVINCE = 'Province'
+
+VICTORY_CARDS = [ESTATE, DUCHY, PROVINCE]
+
+COPPER = 'Copper'
+SILVER = 'Silver'
+GOLD = 'Gold'
+
+TREASURE_CARDS = [COPPER, SILVER, GOLD]
+
+SMITHY = 'Smithy'
+VILLAGE = 'Village'
+
+BASE_SET = [SMITHY, VILLAGE]
+
+TREASURE_TYPE = 'Treasure'
+ACTION_TYPE = 'Action'
+VICTORY_TYPE = 'Victory'
